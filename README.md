@@ -23,6 +23,7 @@ This project leverages a variety of modern technologies to provide a robust and 
 - **Swagger**: A tool used for API documentation and testing.
 - **GraphQL**: A query language for your API, and a runtime for executing those queries by using a type system you define for your data.
 - **MongoDB**: A NoSQL database known for its scalability and flexibility.
+- **MSSQL**: A relational database management system developed by Microsoft.
 - **Serilog**: A diagnostic logging library for .NET applications.
 - **AutoMapper**: A convention-based object-object mapper designed to minimize code mapping.
 
@@ -35,6 +36,7 @@ For further details and advanced configuration, please refer to the official doc
 - [Swagger](https://swagger.io/docs/)
 - [GraphQL](https://graphql.org/learn/)
 - [MongoDB](https://docs.mongodb.com/)
+- [MSSQL](https://docs.microsoft.com/en-us/sql/sql-server/)
 - [Serilog](https://serilog.net/)
 - [AutoMapper](https://automapper.org/)
 
