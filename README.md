@@ -2,7 +2,7 @@
 
 ## .NET Core project to get started
 
-This repository provides a starter template for building a .NET Core application with essential features and integrations.
+This repository provides a starting template for building a .NET Core application with basic features and integrations. You can delete what you don't need, it is included only as an example. After that it's up to your imagination
 
 ## Getting Started with Visual Studio
 
